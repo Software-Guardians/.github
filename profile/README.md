@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Software-Guardians/.github/software-guardians-banner.jpg" alt="Software Guardians Banner" />
+  <img src="./software-guardians-banner.jpg" alt="Software Guardians Banner" />
 </p>
 
 <h1 align="center">🛡️ Software Guardians</h1>
