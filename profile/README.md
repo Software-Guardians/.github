@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../software-guardians-banner.jpg" alt="Software Guardians Banner" />
+  <img src="../software-guardians-banner.jpg" alt="Software Guardians Banner" width="400"/>
 </p>
 
 <h1 align="center">🛡️ Software Guardians</h1>
