@@ -21,7 +21,7 @@
 
 ## 🔧 Upcoming Work
 
-- [ ] Develop and maintain boilerplate templates for C++, Java, Python, and HTML
+- [ ] Develop and maintain boilerplate templates for C++, Java, Python,Kotlin, and HTML
 - [ ] Create cross-platform GUI project structures using Qt
 - [ ] Implement a CLI-based project scaffolding tool
 - [ ] Define contribution and code style guidelines
