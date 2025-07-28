@@ -1,0 +1,30 @@
+name: Sync README from stats repo
+
+on:
+  schedule:
+    - cron: "0 */2 * * *" # Her 2 saatte bir
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout .github repo
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Download README.md from stats repo
+        run: |
+          curl -L -o README.md https://raw.githubusercontent.com/Software-Guardians/stats/main/README.md
+
+      - name: Commit and push README.md
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "Sync README.md from stats repo" || exit 0
+          git push
