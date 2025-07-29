@@ -10,8 +10,9 @@
 </p>
 <hr/>
 <div align="center">
-### 📊 Organization Activity Summary  
-<sub><i>🕒 Last Updated: <b>Tue Jul 29 07:23:04 UTC 2025</b></i></sub>
+
+## 📊 Organization Activity Summary  
+<sub><i>🕒 Last Updated: <b>Tue Jul 29 07:38:45 UTC 2025</b></i></sub>
 <table>
   <tr><td align="right">🔢 <b>Total Commits</b></td><td>26</td></tr>
   <tr><td align="right">📅 <b>Active Days</b></td><td>10</td></tr>
@@ -42,13 +43,17 @@
 </details>
 <hr/>
 <div align="center">
+
 ## 🎯 Our Mission
-> <strong>Software Guardians</strong> is a developer collective focused on creating  
-> practical, reusable, and clean software structures.  
-> We prioritize **code quality**, **simplicity**, and **consistency** across all tools and templates.
+
+**Software Guardians** is a developer collective focused on creating  
+practical, reusable, and clean software structures.  
+We prioritize **code quality**, **simplicity**, and **consistency** across all tools and templates.
+
 </div>
 <br/>
 <div align="center">
+
 ## 🛠️ Upcoming Goals
 <table>
         <tr><td><span class="emoji">✅</span>Maintain boilerplates for C++, Java, Python, Kotlin, HTML, Gdscript with modular and clean architecture</td></tr>
@@ -62,12 +67,27 @@
 </div>
 <hr/>
 <div align="center">
+
 ## 🤝 Contributing
+
 We welcome developers from all backgrounds and skill levels!
-**Steps:**
-1. 🍴 Fork the repository  
-2. 🛠️ Choose an issue or add your own improvement  
-3. 📬 Submit a pull request
+
+<div align="center">
+
+**Steps to contribute:**
+
+🍴 **Fork the repository**  
+🛠️ **Choose an issue or add your own improvement**  
+📬 **Submit a pull request**
+
 </div>
+
+</div>
+
 ---
-<p align="center"><i>🧱 We don't just write code — we build a strong foundation.</i></p>
+
+<div align="center">
+<br/>
+<em>🧱 <strong>We don't just write code — we build a strong foundation.</strong></em>
+<br/><br/>
+</div>
