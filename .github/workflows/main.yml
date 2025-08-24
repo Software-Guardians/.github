@@ -2,7 +2,7 @@ name: Sync README from stats repo
 
 on:
   schedule:
-    - cron: "0 */2 * * *" # Her 2 saatte bir
+    - cron: "0,30 * * * *"  # Her saat başı ve 30. dakikada (yarım saatte bir)
   workflow_dispatch:
 
 permissions:
